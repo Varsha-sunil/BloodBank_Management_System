@@ -1,48 +1,27 @@
-# Blood Bank Management System - C# Desktop App
-Blood Bank Management System, App that manages the detail of the donor in Blood Bank for easy access and management.
+# Blood Bank Management System - C# Desktop App 💉
 
-**Complete Tutorial:**  http://bit.ly/blood-bank-management-system-playlist
+Blood Bank Management System is a desktop application designed to efficiently manage donor details within a blood bank, ensuring easy access and streamlined management processes.
 
+## Let's Connect on LinkedIn 🤝
+[Connect with me on LinkedIn](https://www.linkedin.com/in/varsha-t-s-140103v/)
 
-## YouTube Channel: https://www.youtube.com/vijaythapa
-
-## Tools and Technologies Used
+## Tools and Technologies Utilized 🛠️
 1. C# Programming Language
-2. MS SQL Server 2014
-3. Microsoft Visual Studio (2015)
+2. MS SQL Server 2022
+3. Microsoft Visual Studio (2019)
 4. Git & Github (Version Control)
 
-## Features
-1. Manage Users (Add, Update, Search, Delete)
-2. Simple Authentication (Login/Logout)
-3. Manage Donors (Add, Update, Search, Delete)
-4. Dashboard to view Donors by Blood Group
+## Features 📋
+1. User Management: Perform operations like adding, updating, searching, and deleting users.
+2. Authentication: Simple login/logout functionality to secure access to the application.
+3. Donor Management: Manage donor details effectively with options for adding, updating, searching, and deleting records.
+4. Dashboard: View donors categorized by blood group for quick reference.
 
+## Instructions for Usage 📝
+1. Download or clone this project repository.
+2. Extract and restore the included database.
+3. Navigate to the App Config section.
+4. Update the connection string with your database credentials.
+5. You're now ready to use the application!
 
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
-
-## Instructions to Use
-1. Download or Clone this project
-2. Extract and Restore Database
-3. Go to App Config
-4. Update your Connection String
-5. You are Ready to Go
-
-Note: comment on YouTube if you got any problems or email: hi@vijaythapa.com
-
-
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-
-
+Feel free to reach out for any assistance or inquiries. Let's make managing blood bank operations more efficient and effective!
